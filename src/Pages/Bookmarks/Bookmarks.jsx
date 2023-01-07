@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import Navbar from '../../Components/Navbar';
 import CardComponent from '../../Components/CardComponent';
 import { connect, } from 'react-redux';
